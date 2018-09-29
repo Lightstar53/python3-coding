@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b1da38e6-beb9-4e2f-abb7-391134f94ba8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin_trees/bst.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin_trees/heap.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin_trees/bst.py" beforeDir="false" afterPath="$PROJECT_DIR$/bin_trees/bst.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,52 +21,41 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="3" />
+          <entry key="md" value="1" />
+          <entry key="py" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="3" />
+          <entry key="Markdown" value="1" />
+          <entry key="Python" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="14" />
-          <entry key="py" value="3740" />
+          <entry key="md" value="57" />
+          <entry key="py" value="3821" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
+          <entry key="Markdown" value="57" />
           <entry key="PLAIN_TEXT" value="14" />
-          <entry key="Python" value="3740" />
+          <entry key="Python" value="3821" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/bin_trees/bst.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+            <state relative-caret-position="1003">
+              <caret line="59" column="31" selection-start-line="59" selection-start-column="31" selection-end-line="59" selection-end-column="31" />
               <folding>
-                <marker date="1538249442334" expanded="true" signature="11:16" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/bin_trees/heap.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1037">
-              <caret line="79" column="62" selection-start-line="79" selection-start-column="62" selection-end-line="79" selection-end-column="62" />
-              <folding>
-                <marker date="1538259625683" expanded="true" signature="190:191" ph="..." />
-                <marker date="1538259625683" expanded="true" signature="190:2908" ph="..." />
-                <marker date="1538259625683" expanded="true" signature="395:1044" ph="..." />
-                <marker date="1538259625683" expanded="true" signature="1251:1390" ph="..." />
+                <marker date="1538260954743" expanded="true" signature="11:16" ph="..." />
               </folding>
             </state>
           </provider>
@@ -83,9 +71,10 @@
       <list>
         <option value="$PROJECT_DIR$/bin_trees/binary_tree.py" />
         <option value="$PROJECT_DIR$/bin_trees/tree.py" />
-        <option value="$PROJECT_DIR$/bin_trees/bst.py" />
         <option value="$PROJECT_DIR$/bin_trees/binary_tree_node.py" />
         <option value="$PROJECT_DIR$/bin_trees/heap.py" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/bin_trees/bst.py" />
       </list>
     </option>
   </component>
@@ -234,25 +223,35 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bin_trees/bst.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
-          <folding>
-            <marker date="1538249442334" expanded="true" signature="11:16" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/bin_trees/heap.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1037">
+        <state relative-caret-position="1339">
           <caret line="79" column="62" selection-start-line="79" selection-start-column="62" selection-end-line="79" selection-end-column="62" />
           <folding>
             <marker date="1538259625683" expanded="true" signature="190:191" ph="..." />
             <marker date="1538259625683" expanded="true" signature="190:2908" ph="..." />
             <marker date="1538259625683" expanded="true" signature="395:1044" ph="..." />
             <marker date="1538259625683" expanded="true" signature="1251:1390" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="34">
+            <caret line="2" column="55" selection-start-line="2" selection-start-column="55" selection-end-line="2" selection-end-column="55" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin_trees/bst.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1003">
+          <caret line="59" column="31" selection-start-line="59" selection-start-column="31" selection-end-line="59" selection-end-column="31" />
+          <folding>
+            <marker date="1538260954743" expanded="true" signature="11:16" ph="..." />
           </folding>
         </state>
       </provider>

@@ -54,6 +54,13 @@ class Node:
             self.right.print_pre_order()
         print(self.data)  # print root
 
+    # Check to see if is a valid Binary Search Tree
+    def check_bst(self, root, min, max):
+        if root is None:
+            return True
+        if root.data < min or root.data > max:
+            return False
+        return self.check_bst(root.left, min, root.data - 1) and self.check_bst(root.right, root.data + 1, max)
 
 n = Node(10, Node(5), Node(15))
 n.insert(8)

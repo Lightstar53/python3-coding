@@ -20,4 +20,4 @@ class Queue:
 
 q = Queue()
 q.enqueue(3)
-print q.max()
+print(q.max())

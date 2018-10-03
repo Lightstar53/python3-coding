@@ -25,7 +25,7 @@ node2 = ListNode(14)
 insert_node_after(node1, node2)
 delete_node_after(node1)
 
-print node2.data    # 14
+print(node2.data)    # 14
 
-print search_list(node1, 14)    # return ListNode
+print(search_list(node1, 14))    # return ListNode
 

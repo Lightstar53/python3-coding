@@ -38,7 +38,7 @@ class LinkedList:
 
     def count_nodes(self):
         if self.head is None:
-            print 0
+            print(0)
             return
         count = 1
 

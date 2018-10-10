@@ -32,9 +32,7 @@ def ctci_solution_2(s1, s2):
     for c1 in s1:
         letters[ord(c1)] += 1
     for c2 in s2:
-        val = ord(c2)
-        letters[val] -= 1
-        if letters[val] < 0:
+        if letters[ord(c2)] <= 0:
             return False
     return True
 
